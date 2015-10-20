@@ -14,8 +14,8 @@ var foreground, background, colors;
     // Calculate the foreground color, getting progressively darker
     // and the background color, getting progressively lighter.
 //    foreground = ROT.Color.toRGB([255 - (i*20),
-                                  255 - (i*20),
-                                  255 - (i*20)]);
+ //                                 255 - (i*20),
+  //                                255 - (i*20)]);
  //   background = ROT.Color.toRGB([i*20, i*20, i*20]);
     // Create the color format specifier.
  //   colors = "%c{" + foreground + "}%b{" + background + "}";
