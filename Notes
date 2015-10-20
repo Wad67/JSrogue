@@ -1,0 +1,5 @@
+There is an error referenceing the Rot.JS library
+type ('text/plain') is not executable, and strict MIME type checking is enabled.
+game.js:2 Uncaught ReferenceError: ROT is not defined
+
+Will have to manually grab rot.js, jam it into the project and just reference it internally.
